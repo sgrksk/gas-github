@@ -4,7 +4,7 @@
  * 開発用プロパティ
  */
 const developProperties = {
-  'spreadsheetId': 'developId',
+  'spreadsheetId': 'feat-xxx',
 }
 /**
  * 本番用プロパティ
