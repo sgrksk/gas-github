@@ -1,16 +1,17 @@
-// properties.gs はワークフローごとに作成したい
-
 /**
  * 開発用プロパティ
  */
 const developProperties = {
-  'spreadsheetId': 'developId',
+  "surveyListSheetId" : "",
+  "reportSheetId" : "",
+  "masterDbSheetId" : "",
+  "sheetname" : "",
 }
 /**
  * 本番用プロパティ
  */
 const productionProperties = {
-  'spreadsheetId': 'productionId',
+  "reportSheetId" : "",
 }
 
 /**
